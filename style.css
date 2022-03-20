@@ -1,0 +1,30 @@
+/* Cor de fundo do cabeçalho moda - #BB86FC
+Cor de fundo do cabeçalho casa - #00C4B4
+Cor de fundo dos valores da tabela - #424250 */
+
+/* SETTINGS -> TABLES TEXT COLOR AND PADDING */
+.table th,
+td {
+	color: white;
+	padding: 0.5em;
+}
+/* == == == == == == == == == == */
+
+/* SETTINGS -> TABLES DATA-HEADER'S BACKGROUND */
+.moda th {
+	background-color: #bb86fc;
+}
+
+.casa th {
+	background-color: #00c4b4;
+}
+/* == == == == == == == == == == */
+
+/* SETTINGS -> TABLES DATA BACKGROUND */
+.moda td {
+	background-color: #424250;
+}
+.casa td {
+	background-color: #424250;
+}
+/* == == == == == == == == == == */
